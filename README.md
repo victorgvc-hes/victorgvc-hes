@@ -192,15 +192,208 @@ Ce portfolio présente des projets conçus pour démontrer :
 
 # Contact
 
-* GitHub : https://github.com/
+* GitHub : [https://github.com/](https://github.com/victorgvc-hes)
 * Localisation : Québec, Canada
 
 ---
+
+<div align="center">
+
+### *Digital Transformation • Artificial Intelligence • Supply Chain Analytics • Power BI*
+
 # 🇨🇦 English Version
+
+### <sub>Version française available above</sub>
+
+</div>
+
+Professional portfolio combining artificial intelligence, advanced analytics, Power BI, and digital transformation applied to supply chain management, operations, and business decision-making.
+
+---
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorgvc-hes)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
+[![Python](https://img.shields.io/badge/Python-AI%20%26%20ML-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+
+<br/>
+
+> **Supply chain professional with 20+ years of experience specialized in artificial intelligence, advanced analytics, and digital transformation of operations.**
+
+</div>
+
+---
+
+# About Me
+
+I combine hands-on supply chain expertise with advanced capabilities in:
+
+* Artificial intelligence applied to operations
+* Advanced analytics & Business Intelligence
+* Power BI & executive visualization
+* Demand forecasting & optimization
+* Digital transformation of business processes
+* Automation & decision support
+
+My objective is to design analytical solutions that connect:
+**data → operations → decisions → business outcomes.**
+
+---
+
+# Areas of Expertise
+
+## Artificial Intelligence & Analytics
+
+* Machine Learning applied to supply chain
+* Demand forecasting
+* Supplier risk analytics
+* NLP & document intelligence
+* RAG (Retrieval-Augmented Generation)
+* Predictive models & scoring systems
+
+## Business Intelligence
+
+* Power BI
+* Advanced DAX
+* Power Query (M)
+* Data modeling
+* Operational & executive KPIs
+* Analytical storytelling
+
+## Supply Chain Management
+
+* Procurement & sourcing
+* Inventory management
+* Planning & operations
+* Supplier performance
+* Process optimization
+* ERP / MRP analytics
+
+---
+
+# Technology Stack
+
+### Data & AI
+
+* Python
+* Pandas
+* Scikit-Learn
+* TensorFlow
+* PyTorch
+* LightGBM
+* Prophet
+* LangChain
+* SentenceTransformers
+
+### BI & Visualization
+
+* Power BI
+* DAX
+* Power Query
+* Advanced Excel
+* Plotly Dash
+* Streamlit
+
+### Data Engineering & APIs
+
+* FastAPI
+* DuckDB
+* SQL
+* ChromaDB
+* Docker
+* Git & GitHub
+
+---
+
+# Featured Projects
+
+## AI Demand Forecasting Platform
+
+End-to-end demand forecasting platform combining:
+
+* data pipelines
+* feature engineering
+* ML models
+* FastAPI APIs
+* operational impact simulation
+
+### Technologies
+
+`Python` `LightGBM` `FastAPI` `MLOps`
+
+---
+
+## ERP Data Quality & Operational Control
+
+Power BI dashboard focused on operational control and ERP data quality monitoring.
+
+### Demonstrated Capabilities
+
+* automated data validation
+* anomaly detection
+* executive KPIs
+* root cause analysis
+* Power BI analytical architecture
+
+### Technologies
+
+`Power BI` `DAX` `Power Query` `SQL`
+
+---
+
+## Supplier Risk Intelligence Platform
+
+Analytical platform for supplier risk monitoring using:
+
+* multi-dimensional scoring
+* sentiment analysis
+* AI-generated reporting
+* interactive dashboards
+
+### Technologies
+
+`Python` `FinBERT` `Claude API` `Plotly Dash`
+
+---
+
+# Professional Philosophy
+
+I believe artificial intelligence applied to operations should:
+
+* remain business-value driven,
+* be understandable for operational teams,
+* improve real-world decisions,
+* and integrate directly into operational processes.
+
+My approach combines:
+
+* strategic vision,
+* operational understanding,
+* analytical architecture,
+* and technical execution.
+
+---
+
+# Portfolio Objective
+
+This portfolio showcases projects designed to demonstrate:
+
+* the ability to transform complex data into operational decisions,
+* the integration of AI into real business environments,
+* and the creation of analytical solutions ready for modern professional environments.
+
+---
+
+# Contact
+
+* GitHub : https://github.com/
+* Location : Quebec, Canada
+
+---
+
 <div align="center">
 
 ### *Supply Chain • AI • Analytics • Digital Transformation*
 
 </div>
-
-Professional portfolio combining artificial intelligence, advanced analytics, Power BI, and digital transformation applied to supply chain management, operations, and business decision-making.
