@@ -1,6 +1,9 @@
 <div align="center">
 
-[![GitHub]([https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Vergara&section=footer&descAlign=39)]([https://github.com/victorgvc-hes](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Vergara&section=footer&descAlign=39))
+```markdown
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Vergara&fontColor=ffffff&animation=fadeIn&section=header)
+```
+
 
 Portefeuille professionnel combinant intelligence artificielle, analytique avancée, Power BI et transformation numérique appliquées à la chaîne d’approvisionnement, aux opérations et à la prise de décision d’entreprise.
 
