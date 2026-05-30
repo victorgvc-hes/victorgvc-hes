@@ -192,7 +192,7 @@ Ce portfolio présente des projets conçus pour démontrer :
 
 # Contact
 
-* GitHub : [https://github.com/](https://github.com/victorgvc-hes)
+* GitHub : https://github.com/](https://github.com/victorgvc-hes)
 * Localisation : Québec, Canada
 
 ---
@@ -387,7 +387,7 @@ This portfolio showcases projects designed to demonstrate:
 
 # Contact
 
-* GitHub : https://github.com/
+* GitHub : [https://github.com/](https://github.com/](https://github.com/victorgvc-hes))
 * Location : Quebec, Canada
 
 ---
