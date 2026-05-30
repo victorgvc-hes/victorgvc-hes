@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Vergara&fontColor=ffffff&animation=fadeIn&section=header)
+![Header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Vergara&fontColor=ffffff&animation=fadeIn&section=header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Vergara&section=header&descAlign=50&reversal=false&textBg=false&desc=Transformation%20numérique%20•%20Intelligence%20artificielle%20•%20Supply%20Chain%20Analytics%20•%20Power%20BI&descAlignY=67))
 
 <div align="center">
 
@@ -10,16 +10,9 @@
 
 </div>
 
-# 🇫🇷 Version française
 Portefeuille professionnel combinant intelligence artificielle, analytique avancée, Power BI et transformation numérique appliquées à la chaîne d’approvisionnement, aux opérations et à la prise de décision d’entreprise.
 
 ---
-
-# 🇨🇦 English Version
-Professional portfolio combining artificial intelligence, advanced analytics, Power BI, and digital transformation applied to supply chain management, operations, and business decision-making.
-
-
-### *Transformation numérique • Intelligence artificielle • Supply Chain Analytics • Power BI*
 
 <br/>
 
@@ -207,3 +200,6 @@ Ce portfolio présente des projets conçus pour démontrer :
 ### *Supply Chain • AI • Analytics • Digital Transformation*
 
 </div>
+
+# 🇨🇦 English Version
+Professional portfolio combining artificial intelligence, advanced analytics, Power BI, and digital transformation applied to supply chain management, operations, and business decision-making.
