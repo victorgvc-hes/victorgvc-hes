@@ -196,12 +196,11 @@ Ce portfolio présente des projets conçus pour démontrer :
 * Localisation : Québec, Canada
 
 ---
-
+# 🇨🇦 English Version
 <div align="center">
 
 ### *Supply Chain • AI • Analytics • Digital Transformation*
 
 </div>
 
-# 🇨🇦 English Version
 Professional portfolio combining artificial intelligence, advanced analytics, Power BI, and digital transformation applied to supply chain management, operations, and business decision-making.
