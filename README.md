@@ -213,10 +213,13 @@ Professional portfolio combining artificial intelligence, advanced analytics, Po
 
 <br/>
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorgvc-hes)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
 [![Python](https://img.shields.io/badge/Python-AI%20%26%20ML-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 
+</div>
 <br/>
 
 > **Supply chain professional with 20+ years of experience specialized in artificial intelligence, advanced analytics, and digital transformation of operations.**
