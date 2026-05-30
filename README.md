@@ -2,6 +2,14 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Vergara&fontColor=ffffff&animation=fadeIn&section=header)
 
+<div align="center">
+
+# 🇫🇷 Version française
+
+### <sub>English version available below</sub>
+
+</div>
+
 # 🇫🇷 Version française
 Portefeuille professionnel combinant intelligence artificielle, analytique avancée, Power BI et transformation numérique appliquées à la chaîne d’approvisionnement, aux opérations et à la prise de décision d’entreprise.
 
