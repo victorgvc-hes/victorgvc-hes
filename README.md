@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Vergara&fontColor=ffffff&animation=fadeIn&section=header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Vergara&section=header&descAlign=50&reversal=false&textBg=false&desc=Transformation%20numérique%20•%20Intelligence%20artificielle%20•%20Supply%20Chain%20Analytics%20•%20Power%20BI&descAlignY=67))
+[![Header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Vergara&fontColor=ffffff&animation=fadeIn&section=header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Vergara&section=header&descAlign=50&reversal=false&textBg=false&desc=Transformation%20numérique%20•%20Intelligence%20artificielle%20•%20Supply%20Chain%20Analytics%20•%20Power%20BI&descAlignY=67))](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Vergara&section=header&descAlign=50&reversal=false&textBg=false&desc=Transformation%20numérique%20•%20Intelligence%20artificielle%20•%20Supply%20Chain%20Analytics%20•%20Power%20BI&descAlignY=67)
 
 <div align="center">
 
