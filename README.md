@@ -24,7 +24,7 @@ Portefeuille professionnel combinant intelligence artificielle, analytique avanc
 
 <br/>
 
-> **Professionnel de la chaîne d’approvisionnement avec plus de 20 ans d’expérience, spécialisé dans l’intelligence artificielle, l’analytique avancée et la transformation numérique des opérations.**
+> **Professionnel de la chaîne d’approvisionnement avec plus de 15 ans d’expérience, spécialisé dans l’intelligence artificielle, l’analytique avancée et la transformation numérique des opérations.**
 
 </div>
 
