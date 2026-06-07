@@ -222,7 +222,7 @@ Professional portfolio combining artificial intelligence, advanced analytics, Po
 </div>
 <br/>
 
-> **Supply chain professional with 20+ years of experience specialized in artificial intelligence, advanced analytics, and digital transformation of operations.**
+> **Supply chain professional with 15+ years of experience specialized in artificial intelligence, advanced analytics, and digital transformation of operations.**
 
 </div>
 
